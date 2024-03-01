@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    background-color: white;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: rgb(145, 141, 141);
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+img {
+    width: auto; 
+    height: 150px;
+}
+.home-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Couleur de fond du bouton */
+    color: white; /* Couleur du texte */
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px; /* Arrondit les coins du bouton */
+  }
