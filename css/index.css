@@ -42,8 +42,8 @@ a {
 }
 
 img {
-    width: 100%; /* Adjust based on your preference */
-    height: auto;
+    width: auto; 
+    height: 150px;
 }
 .home-button {
     display: inline-block;
